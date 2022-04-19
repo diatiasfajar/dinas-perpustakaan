@@ -45,8 +45,6 @@ const Galeri = () => {
             </div>
 
             <Slider {...settings}>
-              {console.log(Datagaleri)}
-              {console.log("console galeri :" + Datagaleri)}
               {Datagaleri &&
                 Datagaleri.map((item, index) => {
                   return item.image_galeri_item.map((itm, index) => {

@@ -34,9 +34,9 @@ axios.get('http://adminmesuji.embuncode.com/api/menus?instansi_id=13')
     <Fragment>
       <Navbar expand="lg" position="fixed">
         <div className="navbar-all">
-          <Container>
+          {/* <Container> */}
             <Navbar.Collapse className="text-navbar" id="navbarScroll">
-              <Container>
+              {/* <Container> */}
                 <Nav
                   className="me-auto my-2 my-lg-0"
                   style={{ maxHeight: "300 px" }}
@@ -102,9 +102,9 @@ axios.get('http://adminmesuji.embuncode.com/api/menus?instansi_id=13')
                   })}
                 </Nav>
               {" "}
-              </Container>
+              {/* </Container> */}
             </Navbar.Collapse>
-          </Container>
+          {/* </Container> */}
         </div>
       </Navbar>{" "}
       <br></br>

@@ -29,15 +29,15 @@ const DetailArtikel = () => {
       });
   }
   return (
-    <div className="container">
+    <div className="main-container">
 		{
 			(DetailArtikel != null) ? 
-			<Row className="container">
+			<Row className="container text-center ">
 				<Col xs={12}>
-					<img className="gambar-detail-Artikel" src={DetailArtikel.image_file_data} />
+					<img className="gambar-detail-Artikel radius-10 mb-4" src={DetailArtikel.image_file_data} />
 				</Col>
-				<Col xs={12} className="text-left">
-					<h4 className="title-detail-Artikel">{DetailArtikel.title}</h4>
+				<Col xs={12} className="text-left pb-5">
+					<h2 className="title-detail-Artikel mb-4 border-bottom pb-4">{DetailArtikel.title}</h2>
 					<p dangerouslySetInnerHTML={{ __html: DetailArtikel.content }}></p>
 				</Col>
 			</Row> : ''
