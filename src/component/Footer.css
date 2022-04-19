@@ -1,0 +1,76 @@
+.footer {
+  background: #1573a1;
+}
+
+.bg-bawah {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.container-logo-footer {
+  align-items: center;
+  height: 100%;
+  color: #dbd4fc;
+}
+
+.container-logo-footer h1 {
+  font-size: 29px;
+}
+
+.container-text-footer {
+  margin: 0px 0px !important;
+}
+
+.footer-contain {
+  font-size: 17px;
+  color: #dbd4fc;
+}
+
+.footer-contain-text {
+  font-size: 14px;
+  font-weight: bold;
+  color: #dbd4fc;
+}
+
+
+
+.footer-list-margin li {
+  margin: 8px 0px;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+}
+
+.footer-href-text {
+  text-decoration: none;
+  color: #dbd4fc;
+  font-size: 14px;
+  line-height: 1.8;
+  font-family: "Roboto", sans-serif;
+}
+
+.footer-keterangan-dinas {
+  font-size: 14px;
+  line-height: 1.8;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.footer-margin-left {
+  padding-left: 70px;
+}
+
+.text-cc {
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.8;
+  font-family: "Roboto", sans-serif;
+}
+
+.maps {
+  height: 200px;
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 20px;
+}

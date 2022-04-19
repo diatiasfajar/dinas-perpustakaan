@@ -1,0 +1,19 @@
+.artikel {
+    text-align: left;
+    font-family: serif;
+    padding: 15px;
+    height: 100%;
+    margin-bottom: 40px;
+    overflow: hidden;
+    padding: 40px;
+    background-color: rgb(183, 214, 202);
+
+  }
+
+  .berita-ku{
+
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-color: whitesmoke;
+    border-bottom: solid 1px #e0e0e0;
+ }

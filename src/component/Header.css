@@ -1,0 +1,19 @@
+.text-navbar {
+  padding-left: 400px;
+  color: white !important;
+}
+
+.navbar-all {
+  padding: 10px;
+  border-radius: 2px;
+  text-align: center;
+  display: block;
+  list-style-type: none;
+  background-color: #00adef;
+  overflow: hidden;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  box-shadow: 0 5px 1px 0 #2f5061;
+}

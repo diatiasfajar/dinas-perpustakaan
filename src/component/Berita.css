@@ -1,0 +1,16 @@
+.Bungkus-berita{
+    margin-top: 10px;
+    background-color: #cacaca;
+    border-bottom: 7px solid;
+    border-color: #00adef;
+    border-right: 0px;
+    color: #00adef ;
+}
+
+.berita-ku{
+
+   padding-top: 10px;
+   padding-bottom: 5px;
+   background-color: whitesmoke;
+   border-bottom: solid 1px #e0e0e0;
+}
